@@ -1,0 +1,6 @@
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+O medo é o carcereiro da alma ...
+  Sua alma está onde guarda seu tesouro ...
